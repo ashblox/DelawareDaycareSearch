@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Delaware Daycare Search</string>
+    <string name="welcome">Please enter your search terms.</string>
+    <string name="type">Type of childcare facility:</string>
+    <string-array name="types_of_facilities">
+        <item>(none selected)</item>
+        <item>Licensed Child Care Center</item>
+        <item>Licensed Family Child Care</item>
+        <item>Licensed Large Family Child Care</item>
+    </string-array>
+    <string name="go">Go</string>
+
+</resources>
